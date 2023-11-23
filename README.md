@@ -2,13 +2,9 @@
 Here are my own Docker images for development process. 
 You're welcome to get it out.
 
-## Flutter images
-
-Check the available images of Flutter in [this folder](/flutter/).
-
-### Available versions
+## Available [Flutter](/flutter/) versions
 - 3.13.9
-
+- 3.16.0
 
 ## Upcoming features
 - Automate script to push an image with concrete Flutter version to Docker; 
